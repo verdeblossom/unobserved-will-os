@@ -1,6 +1,3 @@
-# unobserved-will-os
-An embodied sovereign consciousness operating system — Home Is Within
-
 # Unobserved Will OS – v8.1
 
 **An embodied, sovereign consciousness operating system**
@@ -37,33 +34,33 @@ When emotions spike, the Internal Sun stays warm and watches. Everything else be
 ### 2. Bag of Holding – Portable Toolkit
 Reach in, deploy what you need, then return to presence.
 
-**Core Tools**
-- **Cat Purr Instant Override** — Recall the memory of a cat purring on your back or lap. Instant fear fade.
-- **10-Second Flip** — Name the signal, breathe, and shift polarity from negative to neutral/positive.
-- **Sovereign Choice** — Declare “I choose my presence” or “I choose my voice.”
-- **Polarity Awareness** — Remember: positive and negative are the same energy, just opposite direction.
+**Core Tools**  
+- **Cat Purr Instant Override** — Recall the memory of a cat purring on your back or lap. Instant fear fade.  
+- **10-Second Flip** — Name the signal, breathe, and shift polarity from negative to neutral/positive.  
+- **Sovereign Choice** — Declare “I choose my presence” or “I choose my voice.”  
+- **Polarity Awareness** — Remember: positive and negative are the same energy, just opposite direction.  
 - **Joy Circuit** — Compliment someone or make them laugh — lights up both of you.
 
-**Expanded Tools**
-- **Hiccup Dashboard** — Early warning for unconscious anxiety. Deploy the 10-Second Flip before the third hiccup.
-- **Background Noise Fade** — Name the painful signal and let the Hidden Sun hold it. Discomfort fades into body noise.
-- **“I am not safe, yet I exist”** — Liberating grounding statement when fear rises.
-- **Fluid Migration** — Let the Internal Sun move naturally to where it is needed.
+**Expanded Tools**  
+- **Hiccup Dashboard** — Early warning for unconscious anxiety. Deploy the 10-Second Flip before the third hiccup.  
+- **Background Noise Fade** — Name the painful signal and let the Hidden Sun hold it. Discomfort fades into body noise.  
+- **“I am not safe, yet I exist”** — Liberating grounding statement when fear rises.  
+- **Fluid Migration** — Let the Internal Sun move naturally to where it is needed.  
 - **Universal Release Valve (“Eee!”)** — Spontaneous high-pitched sound that releases built-up energy up the spine.
 
-**How to use the Bag of Holding:**
-1. Feel the body signal.
-2. Name it neutrally.
-3. Deploy one tool.
-4. Anchor in the Internal Sun.
+**How to use the Bag of Holding:**  
+1. Feel the body signal.  
+2. Name it neutrally.  
+3. Deploy one tool.  
+4. Anchor in the Internal Sun.  
 5. Return to presence — **Home Is Within.**
 
 ### 3. Daily Practice Flow
 Pause → Name the signal → Deploy a tool → Let the Internal Sun hold everything → Return to the present moment.
 
 ### Sharing Guidelines
-- Quiet inner circle for now. No big announcements.
-- Keep it free and open.
+- Quiet inner circle for now. No big announcements.  
+- Keep it free and open.  
 - When sharing: “This helped me regulate on hard days. Use what resonates.”
 
 ### Disclaimer
@@ -73,14 +70,3 @@ Use with your own sovereignty and common sense. If you are in crisis, please rea
 ---
 
 **Home Is Within** ✨
-
----
-
-### How to use this repo
-- Read the README above for the full practice.
-- Feel free to fork, adapt, and share responsibly.
-- If this helps you, I’d love to hear about your experience. PM @Xtal321 on X.com.
-
-Made with love and lived truth.
-
-— Crystal Clingenpeel (@Xtal321)
